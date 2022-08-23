@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ngsReports"]
+	path = ngsReports
+	url = https://github.com/steveped/ngsreports
+	shallow = true
+	registered = true
