@@ -8,3 +8,8 @@
 	url = https://github.com/steveped/extrachips
 	shallow = true
 	registered = true
+[submodule "ngsReports"]
+	path = ngsReports
+	url = https://github.com/steveped/ngsreports
+	shallow = true
+	registered = true
